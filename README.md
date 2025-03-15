@@ -1,4 +1,8 @@
 ## Hello World
+Not a great programmer, just like typing.
+Just call me "typist"
+
+My dream is to be an astronaut
 
 ### Python Feed
 ![Snake animation](https://raw.githubusercontent.com/brianandhikap/brianandhika/output/github-contribution-grid-snake-dark.svg)
