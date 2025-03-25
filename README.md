@@ -17,5 +17,4 @@ My dream is to be an astronaut
 - [nextbiy.my.id](https://nextbiy.my.id) Portfolio
 - [ai.nextbiy.my.id](https://ai.nextbiy.my.id) AI Chat
 - [blog.nextbiy.my.id](https://blog.nextbiy.my.id) Blog
-- [stream.nextbiy.my.id](https://stream.nextbiy.my.id/) Stream
-- [cloud.nextbiy.my.id](https://cloud.nextbiy.my.id) Cloud Storage
+
