@@ -5,7 +5,11 @@ Just call me "typist"
 My dream is to be an astronaut
 
 ### Python Feed
-![Snake animation](https://raw.githubusercontent.com/brianandhikap/brianandhika/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a target="_blank" href="https://github.com/brianandhikap">
+  <img src="https://raw.githubusercontent.com/brianandhikap/brianandhika/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </a>
+</p>
 
 ### Lifestyle
 <p align="center">
