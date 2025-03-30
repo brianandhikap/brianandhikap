@@ -9,7 +9,9 @@ My dream is to be an astronaut
 
 ### Lifestyle
 <p align="center">
+  <a target="_blank" href="https://github.com/brianandhikap">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianandhikap&layout=compact" alt="Top Langs" />
+  </a>
 </p>
 
 ### Get In Touch!
