@@ -9,8 +9,9 @@ My dream is to be an astronaut
 
 ### Lifestyle
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianandhikap&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianandhikap&layout=compact" alt="Top Langs" />
 </p>
+
 ### Get In Touch!
 - You can reach me by mentioning or direct message [@brianandhikap](https://instagram.com/brianandhikap) or just by [mail](mailto:r.brianandhikap@gmail.com)
 
