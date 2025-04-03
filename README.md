@@ -1,5 +1,5 @@
 ## Hello World
-Not a great programmer, just like typing.
+Im just like typing.
 Just call me "typist"
 
 My dream is to be an astronaut
