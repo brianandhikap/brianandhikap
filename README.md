@@ -1,3 +1,12 @@
+<p align="center">
+<picture decoding="async" loading="lazy">
+  <!--<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brianandhikap&theme=road_trip">-->
+  <!--<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brianandhikap&screen_effect=true&theme=road_trip&pixelate_avatar=false">-->
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brianandhikap&theme=journey&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
+</picture>
+</p>
+
 ## Hello World
 Im just like typing.
 Just call me "typist"
@@ -28,10 +37,4 @@ My dream is to be an astronaut
 - [blog.nextbiy.my.id](https://blog.nextbiy.my.id) Blog
 
 ### 
-<p align="center">
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brianandhikap&theme=road_trip">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=brianandhikap&screen_effect=true&theme=road_trip&pixelate_avatar=false">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=summer">
-</picture>
-</p>
+
